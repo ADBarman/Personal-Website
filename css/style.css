@@ -137,9 +137,9 @@ footer{
     color: purple;
     font-size: 12px;
 }
-img.resize-f {
+.resize-f img {
     width: 15%;
 }
-img.resize-u {
+.resize-u img{
     width: 15%;
 }
