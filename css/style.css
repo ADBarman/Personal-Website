@@ -133,6 +133,7 @@ section{
     color: white;
 }
 footer{
+    margin-top: 20px;
     text-align: center;
     color: purple;
     font-size: 12px;
