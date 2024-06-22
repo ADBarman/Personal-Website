@@ -9,10 +9,10 @@ body{
     float: left;
     margin: 3%;
     padding-left: 2%;
+    border-radius: 80px;
 }
 .half-width img{
     width: 75%;
-    border-radius: 80px;
 }
 .half-width img:hover{
     box-shadow: 10px 10px 50px rgb(243, 191, 241);
